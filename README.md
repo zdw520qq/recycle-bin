@@ -30,7 +30,7 @@ then paste the script which in linux.sh  into ~/.bash_profile
 # guide
 
 - rm
-delete the file or do fold, and a timestamp will append the fileName or foldName.
+delete(move) the file or fold, and a timestamp will append the fileName or foldName.
 
 ```
 
